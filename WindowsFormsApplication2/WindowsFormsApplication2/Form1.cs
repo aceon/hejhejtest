@@ -21,10 +21,5 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("HJDDADLA");
         }
-
-        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
-        {
-            
-        }
     }
 }

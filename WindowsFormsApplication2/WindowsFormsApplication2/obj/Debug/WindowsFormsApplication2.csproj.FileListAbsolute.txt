@@ -1,9 +1,1 @@
 C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
-C:\Users\Dr Williamo\Documents\GitHub\hejhejtest\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
